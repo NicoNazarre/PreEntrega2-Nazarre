@@ -1,4 +1,5 @@
 import CartWidget from "./CartWidget";
+import { Link, NavLink } from "react-router-dom";
 import logo from "./images/icono-legnano.png";
 
 const NavBar = () => {
@@ -8,23 +9,23 @@ const NavBar = () => {
                 <div className="col">
                     <nav className="navbar navbar-expand-lg">
                         <div className="container-fluid">
-                            <a className="navbar-brand" href={"/"}><img src={logo} alt="Leniano" /></a>
+                            <Link className="navbar-brand" to={"/"}><img src={logo} alt="Leniano" width={"108"} /></Link>
                             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="navbar-toggler-icon"></span>
                             </button>
                             <div className="collapse navbar-collapse" id="navbarNav">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <a className="nav-link" aria-current="page" href={"/"}>Productos</a>
+                                        <NavLink className="nav-link" activeclassname={"active"} to={"/"}>Productos</NavLink>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link" href={"/Diablo-Rosso"}>Diablo Rosso</a>
+                                        <NavLink className="nav-link" activeclassname={"active"} to={"/category/calle"}>calle</NavLink>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link" href={"/MT-60"}>MT 60</a>
+                                        <NavLink className="nav-link" activeclassname={"active"} to={"/category/calle tierra"}>calle tierra</NavLink>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link" href={"/Scorpion-Trail"}>Scorpion Trail</a>
+                                        <NavLink className="nav-link" activeclassname={"active"} to={"/category/cross"}>cross</NavLink>
                                     </li>
                                 </ul>
                             </div>
@@ -33,12 +34,10 @@ const NavBar = () => {
                 </div>
                 <div className="col d-flex align-items-center justify-content-end">
                     <CartWidget />
-
                 </div>
             </div>
         </div>
-        )
-        }
+    )
+}
 
-
-        export default NavBar;
+export default NavBar;

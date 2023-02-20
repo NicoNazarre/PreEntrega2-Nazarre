@@ -1,6 +1,16 @@
-const ItemList = () => {
+import Item from "./Item";
+
+const ItemList = ({items}) => {
     return (
-            <h1>ItemList</h1>
+        <div className="container">
+            <div className="row">
+                {items.map(item => (
+                <div className="col-md-4" key={item.index}>
+                    <Item item={item} />
+                </div>
+            ))}
+            </div>
+        </div>
     )
 }
 

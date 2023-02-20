@@ -1,19 +1,13 @@
 [
-    {"index":1, "nombre":"Diablo Rosso", "aplicación":"Pista", "descripción":"Encontrá la seguridad y estabilidad que necesitás para recorrer aquellos caminos que tanto anhelas. Sentite confiado al conducir, garantizando la firmeza precisa en tu andar.Los neumáticos Pirelli se caracterizan en su historia por ser los mejores, tanto en carreras como fuera de ellas. Podrás hallar una sobresaliente tecnología y un innovador diseño adaptado a los caminos que desees transitar.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_860207-MLA44665368560_012021-V.webp",
-    "precio":"80000", "stock":"10", "categoria":"calle"},
+    {"index":1, "nombre":"Diablo Rosso", "aplicacion":"Pista", "descripcion":"Encontrá la seguridad y estabilidad que necesitás para recorrer aquellos caminos que tanto anhelas. Sentite confiado al conducir, garantizando la firmeza precisa en tu andar.Los neumáticos Pirelli se caracterizan en su historia por ser los mejores, tanto en carreras como fuera de ellas. Podrás hallar una sobresaliente tecnología y un innovador diseño adaptado a los caminos que desees transitar.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_637100-MLA49055127921_022022-F.webp", "precio":"80000", "stock":"10", "categoria":"calle"},
     
-    {"index":2, "nombre":"MT60", "aplicación":"Enduro on/off", "descripción":"Construcción más rígida. Este producto con cámara es la versión más tradicional y económica del mercado, ya que posee la ventaja de tener una mejor estanqueidad del aire.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_699107-MLA31595164862_072019-V.webp",
-    "precio":"45000", "stock":"18", "categoria":"calle tierra"},
+    {"index":2, "nombre":"MT60", "aplicacion":"Enduro on/off", "descripcion":"Construcción más rígida. Este producto con cámara es la versión más tradicional y económica del mercado, ya que posee la ventaja de tener una mejor estanqueidad del aire.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_981299-MLA49121468519_022022-F.webp", "precio":"45000", "stock":"18", "categoria":"calle tierra"},
     
-    {"index":3, "nombre":"Scorpion Trail", "aplicación":"Turismo", "descripción":"Versatilidad en diferentes terrenos. Al ser on road/off road pose una gran tracción en pisos resbaladizos, incluso en alta velocidad. Ofrece durabilidad excepcional y confort para todo tipo de suelo.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_603218-MLA45131262974_032021-V.webp",
-    "precio":"75000", "stock":"12", "categoria":"calle tierra"},
+    {"index":3, "nombre":"Scorpion Trail", "aplicacion":"Turismo", "descripcion":"Versatilidad en diferentes terrenos. Al ser on road/off road pose una gran tracción en pisos resbaladizos, incluso en alta velocidad. Ofrece durabilidad excepcional y confort para todo tipo de suelo.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_696863-MLA45292251530_032021-V.webp", "precio":"75000", "stock":"12", "categoria":"calle tierra"},
     
-    {"index":4, "nombre":"Sl 26", "aplicación":"", "descripción":"Tu mejor compañero si de aventuras se trata. Es un neumático con altas prestaciones y de gran agarre en ruta ideal para la aventura.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_663732-MLA31098999564_062019-V.webp",
-    "precio":"35000", "stock":"20", "categoria":"calle"},
+    {"index":4, "nombre":"Sl 26", "aplicacion":"", "descripcion":"Tu mejor compañero si de aventuras se trata. Es un neumático con altas prestaciones y de gran agarre en ruta ideal para la aventura.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_663732-MLA31098999564_062019-V.webp", "precio":"35000", "stock":"20", "categoria":"calle"},
     
-    {"index":5, "nombre":"Mandrake Due", "aplicación":"Calle", "descripción":"La seguridad que buscás. Con excelente capacidad para evacuar el agua con el fin de evitar el aquaplaning.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_773958-MLA49288721139_032022-V.webp",
-    "precio":"20000", "stock":"14", "categoria":"calle"},
+    {"index":5, "nombre":"Mandrake Due", "aplicacion":"Calle", "descripcion":"La seguridad que buscás. Con excelente capacidad para evacuar el agua con el fin de evitar el aquaplaning.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_711061-MLA48344696529_112021-V.webp", "precio":"20000", "stock":"14", "categoria":"calle"},
     
-    {"index":6, "nombre":"MT 21", "aplicación":"Tierra arena piedra", "descripción":"Desarrollado para motoristas trotamundos y especialistas en rallys que buscan la máxima flexibilidad de uso, desde dunas de desierto hasta turismo de larga distancia.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_723087-MLA43962177344_102020-V.webp",
-    "precio":"40000", "stock":"15", "categoria":"cross"}
+    {"index":6, "nombre":"MT 21", "aplicacion":"Tierra arena piedra", "descripcion":"Desarrollado para motoristas trotamundos y especialistas en rallys que buscan la máxima flexibilidad de uso, desde dunas de desierto hasta turismo de larga distancia.", "imagen":"https://http2.mlstatic.com/D_NQ_NP_951751-MLA50789700813_072022-V.webp", "precio":"40000", "stock":"15", "categoria":"cross"}
 ]
